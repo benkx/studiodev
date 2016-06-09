@@ -43,7 +43,7 @@ header nav a.active{
 	padding: 200px 0 150px;
 }
 #home h1{
-	
+
 	font-size: 68px;
 	font-weight: normal;
 	line-height: 1.2;
@@ -54,6 +54,7 @@ header nav a.active{
 	width: 80px;
 	border-top: 5px solid #fed136;
 	margin:0 auto;
+	
 }
 #home p{
 	font-size: 24px;
